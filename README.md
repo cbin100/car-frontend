@@ -62,5 +62,7 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 Due to Firebase free-tier limits, data may not always display in the live demo. The application is fully functional and works with a fresh dataset.
 
+Please check also User Guide here: https://github.com/cbin100/car-frontend/blob/main/USER_GUIDE.md
+
 ## Author
 Watchiba
