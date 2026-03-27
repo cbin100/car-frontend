@@ -59,3 +59,6 @@ Once the server is running, open your browser and navigate to `http://localhost:
 ## Note
 
 Due to Firebase free-tier limits, data may not always display in the live demo. The application is fully functional and works with a fresh dataset.
+
+## Author
+Watchiba
