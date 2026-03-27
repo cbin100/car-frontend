@@ -56,6 +56,8 @@ npx ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
+- Persisted filters using localStorage (user preferences are saved even after browser refresh)
+
 ## Note
 
 Due to Firebase free-tier limits, data may not always display in the live demo. The application is fully functional and works with a fresh dataset.
