@@ -56,6 +56,17 @@ npx ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
+## Cold Start (Render Free Tier)
+
+The backend is hosted on Render's free tier. After a period of inactivity, the service may spin down.
+
+ This can cause the first request to take up to 30–50 seconds.
+
+Subsequent requests are fast once the service is active.
+
+This is a known limitation of free-tier hosting and not related to application performance.
+
+
 - Persisted filters using localStorage (user preferences are saved even after browser refresh)
 
 ## Note
